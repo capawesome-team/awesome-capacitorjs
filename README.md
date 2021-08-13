@@ -37,6 +37,7 @@ A curated list of awesome things related to Capacitor.
 - [Data Storage in Capacitor](https://capacitorjs.com/docs/guides/storage)
 - [Security Best Practices for Capacitor](https://capacitorjs.com/docs/guides/security)
 - [Using Push Notifications with Firebase in an Ionic + Angular App](https://capacitorjs.com/docs/guides/push-notifications-firebase)
+- [Saving Plugin Calls](https://capacitorjs.com/docs/core-apis/saving-calls)
 
 ## Learnings
 
