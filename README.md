@@ -131,6 +131,8 @@ A curated list of awesome things related to Capacitor.
 - [@robingenz/capacitor-badge](https://github.com/robingenz/capacitor-badge) - Capacitor plugin to access and update the badge number of the app icon.
 - [@robingenz/capacitor-android-dark-mode-support](https://github.com/robingenz/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
 - [@robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - Capacitor plugin that assists with app updates.
+- [@robingenz/capacitor-file-picker](https://github.com/robingenz/capacitor-file-picker) - Capacitor plugin that allows the user to select a file. 
+- [@robingenz/capacitor-managed-configurations](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings. 
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
