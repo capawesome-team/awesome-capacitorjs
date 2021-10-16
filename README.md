@@ -133,6 +133,7 @@ A curated list of awesome things related to Capacitor.
 - [@robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - Capacitor plugin that assists with app updates.
 - [@robingenz/capacitor-file-picker](https://github.com/robingenz/capacitor-file-picker) - Capacitor plugin that allows the user to select a file. 
 - [@robingenz/capacitor-managed-configurations](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings. 
+- [@robingenz/capacitor-photo-editor](https://github.com/robingenz/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo. 
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
