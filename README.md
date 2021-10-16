@@ -142,6 +142,7 @@ A curated list of awesome things related to Capacitor.
 ## Demo Apps
 
 - [capacitor-plugin-demo](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+- [capacitor-firebase-plugin-demo](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 - [capacitor-testapp](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
 
 ## Tools
