@@ -128,6 +128,7 @@ A curated list of awesome things related to Capacitor.
 - [@robingenz/capacitor-firebase-performance](https://github.com/robingenz/capacitor-firebase-performance) - Capacitor plugin for Firebase Performance Monitoring.
 - [@robingenz/capacitor-background-task](https://github.com/robingenz/capacitor-background-task) - Capacitor plugin for running background tasks.
 - [@robingenz/capacitor-firebase-app](https://github.com/robingenz/capacitor-firebase-app) - Capacitor plugin for Firebase App.
+- [@robingenz/capacitor-firebase-app-check](https://github.com/robingenz/capacitor-firebase-app-check) - Capacitor plugin for Firebase App Check.
 - [@robingenz/capacitor-badge](https://github.com/robingenz/capacitor-badge) - Capacitor plugin to access and update the badge number of the app icon.
 - [@robingenz/capacitor-android-dark-mode-support](https://github.com/robingenz/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
 - [@robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - Capacitor plugin that assists with app updates.
