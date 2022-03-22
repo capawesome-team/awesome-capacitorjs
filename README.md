@@ -122,12 +122,14 @@ A curated list of awesome things related to Capacitor.
 - [@capacitor-community/safe-area](https://github.com/capacitor-community/safe-area) - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
 - [@capacitor-community/appcenter-sdk-capacitor](https://github.com/capacitor-community/appcenter-sdk-capacitor) - Capacitor Plugin for Microsoft's Visual Studio App Center SDK.
 - [@capacitor-community/photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
+- [@capacitor-firebase/analytics](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Analytics.
+- [@capacitor-firebase/app](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase App.
+- [@capacitor-firebase/authentication](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Authentication.
+- [@capacitor-firebase/crashlytics](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Crashlytics.
+- [@capacitor-firebase/performance](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Performance Monitoring.
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
 - [@robingenz/capacitor-screen-orientation](https://github.com/robingenz/capacitor-screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
-- [@robingenz/capacitor-firebase-authentication](https://github.com/robingenz/capacitor-firebase-authentication) - Capacitor plugin for Firebase Authentication.
-- [@robingenz/capacitor-firebase-performance](https://github.com/robingenz/capacitor-firebase-performance) - Capacitor plugin for Firebase Performance Monitoring.
 - [@robingenz/capacitor-background-task](https://github.com/robingenz/capacitor-background-task) - Capacitor plugin for running background tasks.
-- [@robingenz/capacitor-firebase-app](https://github.com/robingenz/capacitor-firebase-app) - Capacitor plugin for Firebase App.
 - [@robingenz/capacitor-firebase-app-check](https://github.com/robingenz/capacitor-firebase-app-check) - Capacitor plugin for Firebase App Check.
 - [@robingenz/capacitor-badge](https://github.com/robingenz/capacitor-badge) - Capacitor plugin to access and update the badge number of the app icon.
 - [@robingenz/capacitor-android-dark-mode-support](https://github.com/robingenz/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
