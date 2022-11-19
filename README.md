@@ -127,7 +127,7 @@ A curated list of awesome things related to Capacitor.
 - [@capacitor-firebase/authentication](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Authentication.
 - [@capacitor-firebase/crashlytics](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Crashlytics.
 - [@capacitor-firebase/performance](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Performance Monitoring.
-- [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device
+- [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
 - [@robingenz/capacitor-screen-orientation](https://github.com/robingenz/capacitor-screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
 - [@robingenz/capacitor-background-task](https://github.com/robingenz/capacitor-background-task) - Capacitor plugin for running background tasks.
