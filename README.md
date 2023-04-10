@@ -39,6 +39,7 @@ A curated list of awesome things related to Capacitor.
 - [Using Push Notifications with Firebase in an Ionic + Angular App](https://capacitorjs.com/docs/guides/push-notifications-firebase)
 - [Saving Plugin Calls](https://capacitorjs.com/docs/core-apis/saving-calls)
 - [Mocking Capacitor Plugins](https://capacitorjs.com/docs/guides/mocking-plugins)
+- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
 
 ## Learnings
 
