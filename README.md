@@ -144,6 +144,7 @@ A curated list of awesome things related to Capacitor.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
 - [capacitor-video-player](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
 - [send-intent](https://github.com/carsten-klaffke/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
+- [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 
 ## Demo Apps
 
