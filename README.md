@@ -140,11 +140,11 @@ A curated list of awesome things related to Capacitor.
 - [@robingenz/capacitor-managed-configurations](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings. 
 - [@robingenz/capacitor-photo-editor](https://github.com/robingenz/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo. 
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
+- [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 - [capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
 - [capacitor-video-player](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
 - [send-intent](https://github.com/carsten-klaffke/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
-- [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 
 ## Demo Apps
 
