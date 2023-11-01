@@ -159,7 +159,7 @@ A curated list of awesome things related to Capacitor.
 - [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
 - [capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
-- [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
+- [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 - [capacitor-video-player](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
 - [send-intent](https://github.com/carsten-klaffke/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 
