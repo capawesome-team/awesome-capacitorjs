@@ -123,26 +123,44 @@ A curated list of awesome things related to Capacitor.
 - [@capacitor-community/safe-area](https://github.com/capacitor-community/safe-area) - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
 - [@capacitor-community/appcenter-sdk-capacitor](https://github.com/capacitor-community/appcenter-sdk-capacitor) - Capacitor Plugin for Microsoft's Visual Studio App Center SDK.
 - [@capacitor-community/photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
-- [@capacitor-firebase/analytics](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Analytics.
-- [@capacitor-firebase/app](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase App.
-- [@capacitor-firebase/authentication](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Authentication.
-- [@capacitor-firebase/crashlytics](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Crashlytics.
-- [@capacitor-firebase/performance](https://github.com/robingenz/capacitor-firebase) - Capacitor plugin for Firebase Performance Monitoring.
+- [@capacitor-firebase/analytics](https://capawesome.io/plugins/firebase/analytics/) - Capacitor plugin for Firebase Analytics.
+- [@capacitor-firebase/app](https://capawesome.io/plugins/firebase/app/) - Capacitor plugin for Firebase App.
+- [@capacitor-firebase/app-check](https://capawesome.io/plugins/firebase/app-check/) - Capacitor plugin for Firebase App Check.
+- [@capacitor-firebase/authentication](https://capawesome.io/plugins/firebase/authentication/) - Capacitor plugin for Firebase Authentication.
+- [@capacitor-firebase/crashlytics](https://capawesome.io/plugins/firebase/crashlytics/) - Capacitor plugin for Firebase Crashlytics.
+- [@capacitor-firebase/firestore](https://capawesome.io/plugins/firebase/firestore/) - Capacitor plugin for Firebase Cloud Firestore.
+- [@capacitor-firebase/messaging](https://capawesome.io/plugins/firebase/messaging/) - Capacitor plugin for Firebase Cloud Messaging.
+- [@capacitor-firebase/storage](https://capawesome.io/plugins/firebase/storage/) - Capacitor plugin for Firebase Cloud Storage.
+- [@capacitor-firebase/performance](https://capawesome.io/plugins/firebase/performance/) - Capacitor plugin for Firebase Performance Monitoring.
+- [@capacitor-firebase/remote-config](https://capawesome.io/plugins/firebase/remote-config/) - Capacitor plugin for Firebase Remote Storage.
+- [@capacitor-mlkit/barcode-scanning](https://capawesome.io/plugins/mlkit/barcode-scanning/) - Unofficial Capacitor plugin for ML Kit Barcode Scanning.
+- [@capacitor-mlkit/face-detection](https://capawesome.io/plugins/mlkit/face-detection/) - Unofficial Capacitor plugin for ML Kit Face Detection.
+- [@capacitor-mlkit/face-mesh-detection](https://capawesome.io/plugins/mlkit/face-mesh-detection/) - Unofficial Capacitor plugin for ML Kit Face Mesh Detection.
+- [@capacitor-mlkit/selfie-segmentation](https://capawesome.io/plugins/mlkit/selfie-segmentation/) - Unofficial Capacitor plugin for ML Kit Selfie Segmentation.
+- [@capacitor-mlkit/translation](https://capawesome.io/plugins/mlkit/translation/) - Unofficial Capacitor plugin for ML Kit Translation.
 - [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
-- [@robingenz/capacitor-screen-orientation](https://github.com/robingenz/capacitor-screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
-- [@robingenz/capacitor-background-task](https://github.com/robingenz/capacitor-background-task) - Capacitor plugin for running background tasks.
-- [@robingenz/capacitor-firebase-app-check](https://github.com/robingenz/capacitor-firebase-app-check) - Capacitor plugin for Firebase App Check.
-- [@robingenz/capacitor-badge](https://github.com/robingenz/capacitor-badge) - Capacitor plugin to access and update the badge number of the app icon.
-- [@robingenz/capacitor-android-dark-mode-support](https://github.com/robingenz/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
-- [@robingenz/capacitor-app-update](https://github.com/robingenz/capacitor-app-update) - Capacitor plugin that assists with app updates.
-- [@robingenz/capacitor-file-picker](https://github.com/robingenz/capacitor-file-picker) - Capacitor plugin that allows the user to select a file. 
-- [@robingenz/capacitor-managed-configurations](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings. 
-- [@robingenz/capacitor-photo-editor](https://github.com/robingenz/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo. 
+- [@capawesome/capacitor-android-battery-optimization](https://capawesome.io/plugins/android-battery-optimization) - Capacitor plugin to access battery optimization settings on Android. 
+- [@capawesome/capacitor-android-dark-mode-support](https://capawesome.io/plugins/android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
+- [@capawesome/capacitor-android-foreground-service](https://capawesome.io/plugins/android-foreground-service) - Capacitor plugin to run a foreground service on Android.
+- [@capawesome/capacitor-app-update](https://capawesome.io/plugins/app-update) - Capacitor plugin that assists with app updates.
+- [@capawesome/capacitor-background-task](https://capawesome.io/plugins/background-task) - Capacitor plugin for running background tasks.
+- [@capawesome/capacitor-badge](https://capawesome.io/plugins/badge) - Capacitor plugin to access and update the badge number of the app icon.
+- [@capawesome/capacitor-cloudinary](https://capawesome.io/plugins/cloudinary) - Unofficial Capacitor plugin for Cloudinary SDK.
+- [@capawesome/capacitor-datetime-picker](https://capawesome.io/plugins/datetime-picker) - Capacitor plugin that let the user easily enter both a date and a time.
+- [@capawesome/capacitor-file-opener](https://capawesome.io/plugins/file-opener) - Capacitor plugin to open a file with the default application.
+- [@capawesome/capacitor-file-picker](https://capawesome.io/plugins/file-picker) - Capacitor plugin that allows the user to select a file. 
+- [@capawesome/capacitor-managed-configurations](https://capawesome.io/plugins/managed-configurations) - Capacitor plugin to access managed configuration settings. 
+- [@capawesome/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
+- [@capawesome/capacitor-photo-editor](https://capawesome.io/plugins/photo-editor) - Capacitor plugin that allows the user to edit a photo. 
+- [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
+- [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 - [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+- [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
 - [capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
+- [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 - [capacitor-video-player](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
@@ -155,6 +173,7 @@ A curated list of awesome things related to Capacitor.
 - [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [send-intent](https://github.com/carsten-klaffke/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
+
 
 ## Demo Apps
 
