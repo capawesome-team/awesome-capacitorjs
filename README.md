@@ -140,21 +140,21 @@ A curated list of awesome things related to Capacitor.
 - [@robingenz/capacitor-managed-configurations](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings. 
 - [@robingenz/capacitor-photo-editor](https://github.com/robingenz/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo. 
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
+- [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 - [capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
 - [capacitor-video-player](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
-- [send-intent](https://github.com/carsten-klaffke/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
-- [Live Update](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
+- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+- [Live Update](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
 - [Native audio](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Native market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
-- [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
-- [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+- [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+- [send-intent](https://github.com/carsten-klaffke/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 
 ## Demo Apps
 
