@@ -154,24 +154,24 @@ A curated list of awesome things related to Capacitor.
 - [@capawesome/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
 - [@capawesome/capacitor-photo-editor](https://capawesome.io/plugins/photo-editor) - Capacitor plugin that allows the user to edit a photo. 
 - [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
+- [@capgo/camera-preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+- [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+- [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
+- [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+- [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
+- [@capgo/capacitor-mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
+- [@capgo/native-audio](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+- [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+- [@capgo/native-market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
+- [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+- [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
-- [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 - [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
 - [capacitor-data-storage-sqlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 - [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
 - [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 - [capacitor-video-player](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
-- [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
-- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
-- [Live Update](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
-- [Mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-- [Native audio](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
-- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
-- [Native market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
-- [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-- [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [send-intent](https://github.com/carsten-klaffke/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 
 
