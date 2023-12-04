@@ -154,6 +154,17 @@ A curated list of awesome things related to Capacitor.
 - [@capawesome/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
 - [@capawesome/capacitor-photo-editor](https://capawesome.io/plugins/photo-editor) - Capacitor plugin that allows the user to edit a photo. 
 - [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
+- [@capgo/camera-preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+- [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+- [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
+- [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+- [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
+- [@capgo/capacitor-mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
+- [@capgo/native-audio](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+- [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+- [@capgo/native-market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
+- [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+- [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 - [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
