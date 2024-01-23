@@ -141,19 +141,21 @@ A curated list of awesome things related to Capacitor.
 - [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
 - [@capawesome/capacitor-android-battery-optimization](https://capawesome.io/plugins/android-battery-optimization) - Capacitor plugin to access battery optimization settings on Android. 
-- [@capawesome/capacitor-android-dark-mode-support](https://capawesome.io/plugins/android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
-- [@capawesome/capacitor-android-foreground-service](https://capawesome.io/plugins/android-foreground-service) - Capacitor plugin to run a foreground service on Android.
 - [@capawesome/capacitor-app-update](https://capawesome.io/plugins/app-update) - Capacitor plugin that assists with app updates.
 - [@capawesome/capacitor-background-task](https://capawesome.io/plugins/background-task) - Capacitor plugin for running background tasks.
 - [@capawesome/capacitor-badge](https://capawesome.io/plugins/badge) - Capacitor plugin to access and update the badge number of the app icon.
 - [@capawesome/capacitor-cloudinary](https://capawesome.io/plugins/cloudinary) - Unofficial Capacitor plugin for Cloudinary SDK.
-- [@capawesome/capacitor-datetime-picker](https://capawesome.io/plugins/datetime-picker) - Capacitor plugin that let the user easily enter both a date and a time.
-- [@capawesome/capacitor-file-opener](https://capawesome.io/plugins/file-opener) - Capacitor plugin to open a file with the default application.
 - [@capawesome/capacitor-file-picker](https://capawesome.io/plugins/file-picker) - Capacitor plugin that allows the user to select a file. 
 - [@capawesome/capacitor-managed-configurations](https://capawesome.io/plugins/managed-configurations) - Capacitor plugin to access managed configuration settings. 
-- [@capawesome/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
 - [@capawesome/capacitor-photo-editor](https://capawesome.io/plugins/photo-editor) - Capacitor plugin that allows the user to edit a photo. 
 - [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
+- [@capawesome-team/capacitor-android-dark-mode-support](https://capawesome.io/plugins/android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
+- [@capawesome-team/capacitor-android-foreground-service](https://capawesome.io/plugins/android-foreground-service) - Capacitor plugin to run a foreground service on Android.
+- [@capawesome-team/capacitor-datetime-picker](https://capawesome.io/plugins/datetime-picker) - Capacitor plugin that let the user easily enter both a date and a time.
+- [@capawesome-team/capacitor-file-compressor](https://capawesome.io/plugins/file-compressor) - Capacitor plugin for compressing files.
+- [@capawesome-team/capacitor-file-opener](https://capawesome.io/plugins/file-opener) - Capacitor plugin to open a file with the default application.
+- [@capawesome-team/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
+- [@capawesome-team/capacitor-printer](https://capawesome.io/plugins/printer) - Capacitor plugin for printing.
 - [@capgo/camera-preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 - [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
