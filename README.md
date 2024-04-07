@@ -84,9 +84,9 @@ A curated list of awesome things related to Capacitor.
 
 - [@aparajita/capacitor-biometric-auth](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
 - [@aparajita/capacitor-dark-mode](https://github.com/aparajita/capacitor-dark-mode) – Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.
-- [@aparajita/capacitor-secure-storage](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
 - [@aparajita/capacitor-ios-silent-notifications](https://github.com/aparajita/capacitor-ios-silent-notifications) – Silent (AKA remote) notification support for Capacitor apps on iOS.
 - [@aparajita/capacitor-logger](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
+- [@aparajita/capacitor-secure-storage](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
 - [@capacitor-community/vue-cli-plugin-capacitor](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3/4 Plugin for Capacitor.
 - [@capacitor-community/twitter](https://github.com/capacitor-community/twitter) - Capacitor plugin to enable TwitterKit.
 - [@capacitor-community/fcm](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps.
