@@ -169,6 +169,7 @@ A curated list of awesome things related to Capacitor.
 - [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [@capgo/native-market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 - [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+- [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
 - [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
