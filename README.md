@@ -65,6 +65,8 @@ A curated list of awesome things related to Capacitor.
 - [@capacitor/device](https://capacitorjs.com/docs/apis/device) - The Device API exposes internal information about the device.
 - [@capacitor/dialog](https://capacitorjs.com/docs/apis/dialog) - The Dialog API provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
 - [@capacitor/filesystem](https://capacitorjs.com/docs/apis/filesystem) - The Filesystem API provides a NodeJS-like API for working with files on the device.
+- [@capacitor/file-viewer](https://capacitorjs.com/docs/apis/file-viewer) - The FileViewer API provides mechanisms for opening files and previewing media.
+- [@capacitor/file-transfer](https://capacitorjs.com/docs/apis/file-transfer) - The FileTransfer API provides mechanisms for downloading and uploading files.
 - [@capacitor/geolocation](https://capacitorjs.com/docs/apis/geolocation) - The Geolocation API provides simple methods for getting and tracking the current position of the device using GPS.
 - [@capacitor/haptics](https://capacitorjs.com/docs/apis/haptics) - The Haptics API provides physical feedback to the user through touch or vibration.
 - [@capacitor/keyboard](https://capacitorjs.com/docs/apis/keyboard) - The Keyboard API provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
