@@ -4,6 +4,12 @@ A curated list of awesome things related to Capacitor.
 
 > Capacitor is a cross-platform native runtime that makes it easy to build modern web apps that run natively on iOS, Android, and the Web. ([Source](https://capacitorjs.com/docs))
 
+<div class="capawesome-z29o10a">
+  <a href="https://cloud.capawesome.io/" target="_blank">
+    <img alt="Deliver Live Updates to your Capacitor app with Capawesome Cloud" src="https://cloud.capawesome.io/assets/banners/cloud-deploy-real-time-app-updates.png?t=1" />
+  </a>
+</div>
+
 ## Contents
 
 - [Official](#official)
@@ -148,22 +154,39 @@ A curated list of awesome things related to Capacitor.
 - [@capacitor-mlkit/translation](https://capawesome.io/plugins/mlkit/translation/) - Unofficial Capacitor plugin for ML Kit Translation.
 - [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
-- [@capawesome/capacitor-android-battery-optimization](https://capawesome.io/plugins/android-battery-optimization) - Capacitor plugin to access battery optimization settings on Android. 
-- [@capawesome/capacitor-app-update](https://capawesome.io/plugins/app-update) - Capacitor plugin that assists with app updates.
-- [@capawesome/capacitor-background-task](https://capawesome.io/plugins/background-task) - Capacitor plugin for running background tasks.
-- [@capawesome/capacitor-badge](https://capawesome.io/plugins/badge) - Capacitor plugin to access and update the badge number of the app icon.
-- [@capawesome/capacitor-cloudinary](https://capawesome.io/plugins/cloudinary) - Unofficial Capacitor plugin for Cloudinary SDK.
-- [@capawesome/capacitor-file-picker](https://capawesome.io/plugins/file-picker) - Capacitor plugin that allows the user to select a file. 
-- [@capawesome/capacitor-managed-configurations](https://capawesome.io/plugins/managed-configurations) - Capacitor plugin to access managed configuration settings. 
-- [@capawesome/capacitor-photo-editor](https://capawesome.io/plugins/photo-editor) - Capacitor plugin that allows the user to edit a photo. 
-- [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
 - [@capawesome-team/capacitor-android-dark-mode-support](https://capawesome.io/plugins/android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
 - [@capawesome-team/capacitor-android-foreground-service](https://capawesome.io/plugins/android-foreground-service) - Capacitor plugin to run a foreground service on Android.
+- [@capawesome-team/capacitor-audio-recorder](https://capawesome.io/plugins/audio-recorder/) - Capacitor plugin for seamless audio recording using the device's microphone.
+- [@capawesome-team/capacitor-biometrics](https://capawesome.io/plugins/biometrics/) - Capacitor plugin to request biometric authentication, such as using face recognition or fingerprint recognition.
+- [@capawesome-team/capacitor-bluetooth-low-energy](https://capawesome.io/plugins/bluetooth-low-energy/) - Capacitor plugin for Bluetooth Low Energy (BLE) communication.
+- [@capawesome-team/capacitor-contacts](https://capawesome.io/plugins/contacts/) - Capacitor plugin to read, write, or select device contacts.
 - [@capawesome-team/capacitor-datetime-picker](https://capawesome.io/plugins/datetime-picker) - Capacitor plugin that let the user easily enter both a date and a time.
 - [@capawesome-team/capacitor-file-compressor](https://capawesome.io/plugins/file-compressor) - Capacitor plugin for compressing files.
 - [@capawesome-team/capacitor-file-opener](https://capawesome.io/plugins/file-opener) - Capacitor plugin to open a file with the default application.
 - [@capawesome-team/capacitor-nfc](https://capawesome.io/plugins/nfc) - Capacitor plugin for reading and writing NFC tags.
 - [@capawesome-team/capacitor-printer](https://capawesome.io/plugins/printer) - Capacitor plugin for printing.
+- [@capawesome-team/capacitor-secure-preferences](https://capawesome.io/plugins/secure-preferences/) - Capacitor plugin to securely store key/value pairs.
+- [@capawesome-team/capacitor-speech-recognition](https://capawesome.io/plugins/speech-recognition/) - Capacitor plugin to transcribe speech into text.
+- [@capawesome-team/capacitor-speech-synthesis](https://capawesome.io/plugins/speech-synthesis/) - Capacitor plugin for synthesizing speech from text.
+- [@capawesome-team/capacitor-wifi](https://capawesome.io/plugins/wifi/) - Capacitor plugin to manage Wi-Fi connectivity.
+- [@capawesome-team/capacitor-zip](https://capawesome.io/plugins/zip/) - Capacitor plugin to zip and unzip files and directories.
+- [@capawesome/capacitor-android-battery-optimization](https://capawesome.io/plugins/android-battery-optimization) - Capacitor plugin to access battery optimization settings on Android.
+- [@capawesome/capacitor-android-edge-to-edge-support](https://capawesome.io/plugins/android-edge-to-edge-support/) - Capacitor plugin to support edge-to-edge display on Android.
+- [@capawesome/capacitor-app-review](https://capawesome.io/plugins/app-review/) - Capacitor plugin that allows users to submit app store reviews and ratings.
+- [@capawesome/capacitor-app-shortcuts](https://capawesome.io/plugins/app-shortcuts/) - Capacitor plugin to manage app shortcuts and quick actions.
+- [@capawesome/capacitor-app-update](https://capawesome.io/plugins/app-update) - Capacitor plugin that assists with app updates.
+- [@capawesome/capacitor-asset-manager](https://capawesome.io/plugins/asset-manager/) - Capacitor plugin to access native asset files.
+- [@capawesome/capacitor-background-task](https://capawesome.io/plugins/background-task) - Capacitor plugin for running background tasks.
+- [@capawesome/capacitor-badge](https://capawesome.io/plugins/badge) - Capacitor plugin to access and update the badge number of the app icon.
+- [@capawesome/capacitor-cloudinary](https://capawesome.io/plugins/cloudinary) - Unofficial Capacitor plugin for Cloudinary SDK.
+- [@capawesome/capacitor-file-picker](https://capawesome.io/plugins/file-picker) - Capacitor plugin that allows the user to select a file.
+- [@capawesome/capacitor-live-update](https://capawesome.io/plugins/live-update/) - Capacitor plugin that allows you to update your app remotely in real-time without requiring users to download a new version from the app store, known as Over-the-Air (OTA) updates.
+- [@capawesome/capacitor-managed-configurations](https://capawesome.io/plugins/managed-configurations) - Capacitor plugin to access managed configuration settings.
+- [@capawesome/capacitor-photo-editor](https://capawesome.io/plugins/photo-editor) - Capacitor plugin that allows the user to edit a photo.
+- [@capawesome/capacitor-posthog](https://capawesome.io/plugins/posthog/) - Unofficial Capacitor plugin for PostHog.
+- [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
+- [@capawesome/capacitor-screenshot](https://capawesome.io/plugins/screenshot/) - Capacitor plugin for taking screenshots.
+- [@capawesome/capacitor-torch](https://capawesome.io/plugins/torch/) - Capacitor plugin for switching the flashlight on and off.
 - [@capgo/camera-preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 - [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
