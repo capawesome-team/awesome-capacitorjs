@@ -134,15 +134,17 @@ A curated list of awesome things related to Capacitor.
 - [@capacitor-firebase/authentication](https://capawesome.io/plugins/firebase/authentication/) - Capacitor plugin for Firebase Authentication.
 - [@capacitor-firebase/crashlytics](https://capawesome.io/plugins/firebase/crashlytics/) - Capacitor plugin for Firebase Crashlytics.
 - [@capacitor-firebase/firestore](https://capawesome.io/plugins/firebase/firestore/) - Capacitor plugin for Firebase Cloud Firestore.
-- [@capacitor-firebase/functions](https://capawesome.io/plugins/firebase/cloud-functions/) Capacitor plugin for Firebase Cloud Functions.
+- [@capacitor-firebase/functions](https://capawesome.io/plugins/firebase/cloud-functions/) - Capacitor plugin for Firebase Cloud Functions.
 - [@capacitor-firebase/messaging](https://capawesome.io/plugins/firebase/messaging/) - Capacitor plugin for Firebase Cloud Messaging.
 - [@capacitor-firebase/performance](https://capawesome.io/plugins/firebase/performance/) - Capacitor plugin for Firebase Performance Monitoring.
 - [@capacitor-firebase/remote-config](https://capawesome.io/plugins/firebase/remote-config/) - Capacitor plugin for Firebase Remote Storage.
 - [@capacitor-firebase/storage](https://capawesome.io/plugins/firebase/storage/) - Capacitor plugin for Firebase Cloud Storage.
 - [@capacitor-mlkit/barcode-scanning](https://capawesome.io/plugins/mlkit/barcode-scanning/) - Unofficial Capacitor plugin for ML Kit Barcode Scanning.
+- [@capacitor-mlkit/document-scanner]() - Unofficial Capacitor plugin for ML Kit Document Scanner.
 - [@capacitor-mlkit/face-detection](https://capawesome.io/plugins/mlkit/face-detection/) - Unofficial Capacitor plugin for ML Kit Face Detection.
 - [@capacitor-mlkit/face-mesh-detection](https://capawesome.io/plugins/mlkit/face-mesh-detection/) - Unofficial Capacitor plugin for ML Kit Face Mesh Detection.
 - [@capacitor-mlkit/selfie-segmentation](https://capawesome.io/plugins/mlkit/selfie-segmentation/) - Unofficial Capacitor plugin for ML Kit Selfie Segmentation.
+- [@capacitor-mlkit/subject-segmentation](https://capawesome.io/plugins/mlkit/subject-segmentation/) - Unofficial Capacitor plugin for ML Kit Subject Segmentation.
 - [@capacitor-mlkit/translation](https://capawesome.io/plugins/mlkit/translation/) - Unofficial Capacitor plugin for ML Kit Translation.
 - [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
