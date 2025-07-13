@@ -146,7 +146,7 @@ A curated list of awesome things related to Capacitor.
 - [@capacitor-firebase/remote-config](https://capawesome.io/plugins/firebase/remote-config/) - Capacitor plugin for Firebase Remote Storage.
 - [@capacitor-firebase/storage](https://capawesome.io/plugins/firebase/storage/) - Capacitor plugin for Firebase Cloud Storage.
 - [@capacitor-mlkit/barcode-scanning](https://capawesome.io/plugins/mlkit/barcode-scanning/) - Unofficial Capacitor plugin for ML Kit Barcode Scanning.
-- [@capacitor-mlkit/document-scanner]() - Unofficial Capacitor plugin for ML Kit Document Scanner.
+- [@capacitor-mlkit/document-scanner](https://capawesome.io/plugins/mlkit/document-scanner/) - Unofficial Capacitor plugin for ML Kit Document Scanner.
 - [@capacitor-mlkit/face-detection](https://capawesome.io/plugins/mlkit/face-detection/) - Unofficial Capacitor plugin for ML Kit Face Detection.
 - [@capacitor-mlkit/face-mesh-detection](https://capawesome.io/plugins/mlkit/face-mesh-detection/) - Unofficial Capacitor plugin for ML Kit Face Mesh Detection.
 - [@capacitor-mlkit/selfie-segmentation](https://capawesome.io/plugins/mlkit/selfie-segmentation/) - Unofficial Capacitor plugin for ML Kit Selfie Segmentation.
