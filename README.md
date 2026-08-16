@@ -92,6 +92,15 @@ Places to discuss about Capacitor.
 - [Security Best Practices for Capacitor](https://capacitorjs.com/docs/guides/security)
 - [Saving Plugin Calls](https://capacitorjs.com/docs/core-apis/saving-calls)
 - [Mocking Capacitor Plugins](https://capacitorjs.com/docs/guides/mocking-plugins)
+- [Capacitor App Updates: The Complete Guide](https://capawesome.io/blog/capacitor-app-update-guide/)
+- [The Right Way to Update Your Capacitor App Remotely](https://capawesome.io/blog/the-right-way-to-update-your-capacitor-app-remotely/)
+- [How Live Updates Are Changing Mobile App Deployment](https://capawesome.io/blog/how-live-updates-are-changing-mobile-app-deployment/)
+- [CI/CD for Capacitor Apps: Choosing the Right Approach](https://capawesome.io/blog/choosing-the-right-ci-cd-approach-for-capacitor-apps/)
+- [Best CI/CD Platforms for Capacitor Apps](https://capawesome.io/blog/comparing-ci-cd-platforms-for-capacitor-apps/)
+- [Exploring the Capacitor SQLite API](https://capawesome.io/blog/exploring-the-capacitor-sqlite-api/)
+- [Exploring the Capacitor Secure Preferences API](https://capawesome.io/blog/exploring-the-capacitor-secure-preferences-api/)
+- [How to Securely Store Credentials with Capacitor](https://capawesome.io/blog/how-to-securely-store-credentials-with-capacitor/)
+- [Alternative to the Ionic Secure Storage Plugin](https://capawesome.io/blog/alternative-to-ionic-secure-storage-plugin/)
 - [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/capacitor-push-notifications-guide/)
 - [Capacitor OAuth Plugin: OAuth 2.0 & OpenID Connect](https://capawesome.io/blog/announcing-the-capacitor-oauth-plugin/)
 - [Alternative to the Ionic Auth Connect Plugin](https://capawesome.io/blog/alternative-to-ionic-auth-connect-plugin/)
@@ -497,7 +506,6 @@ Free and open source Capacitor starter apps.
 - [capacitor-audio-recorder-demo](https://github.com/capawesome-team/capacitor-audio-recorder-demo) - Simple Capacitor app to demonstrate the use of the Audio Recorder plugin.
 - [capacitor-privacy-screen-demo](https://github.com/capawesome-team/capacitor-privacy-screen-demo) - Simple demo app to demonstrate the use of the Capacitor Privacy Screen plugin.
 - [capacitor-live-update-demo](https://github.com/capawesome-team/capacitor-live-update-demo) - Simple Ionic app to demonstrate the use of the Capacitor Live Update plugin.
-- [cordova-live-update-demo](https://github.com/capawesome-team/cordova-live-update-demo) - Simple Ionic app to demonstrate the use of the Cordova Live Update plugin.
 - [capacitor-angular-starter-guide-demo](https://github.com/capawesome-team/capacitor-angular-starter-guide-demo) - Simple Ionic Angular app, built as part of the Capawesome starter guide.
 
 ## Tools
