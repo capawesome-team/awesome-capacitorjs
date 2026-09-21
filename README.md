@@ -446,6 +446,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 - [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
 - [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
+- [@erkamyaman/capacitor-foldable](https://github.com/erkamyaman/capacitor-foldable) - Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.
 - [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [@smartcompanion/native-audio-player](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) - Video recorder plugin for Capacitor.
