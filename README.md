@@ -524,6 +524,7 @@ Free and open source Capacitor starter apps.
 - [Capawesome Cloud Native Builds](https://capawesome.io/cloud/native-builds/) - Build signed iOS and Android binaries in the cloud from any operating system, without a Mac.
 - [Capawesome Cloud App Store Publishing](https://capawesome.io/cloud/app-store-publishing/) - Publish builds to TestFlight, the App Store, Google Play, and Firebase App Distribution.
 - [Capawesome Cloud Automations](https://capawesome.io/cloud/automations/) - Turn a git push into a native build, live update, or app store submission automatically.
+- [APPLORE Icon Exporter](https://applore.app/app-icon-generator) - Generate an iOS AppIcon.appiconset and Android mipmap resources (including adaptive icon layers) from one image in the browser.
 
 ## Apps Built with Capacitor
 
