@@ -451,6 +451,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 - [@smartcompanion/native-audio-player](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
+- [apparent-capacitor](https://github.com/AhmedAshour/apparent-sdks/tree/main/capacitor) - Analytics for Capacitor and Ionic apps: screens, events, purchases and JavaScript errors, with no native code, no Firebase and no advertising id.
 - [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
 - [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 - [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) - Capacitor Video Player Plugin.
