@@ -525,6 +525,7 @@ Free and open source Capacitor starter apps.
 - [Capawesome Cloud App Store Publishing](https://capawesome.io/cloud/app-store-publishing/) - Publish builds to TestFlight, the App Store, Google Play, and Firebase App Distribution.
 - [Capawesome Cloud Automations](https://capawesome.io/cloud/automations/) - Turn a git push into a native build, live update, or app store submission automatically.
 - [APPLORE Icon Exporter](https://applore.app/app-icon-generator) - Generate an iOS AppIcon.appiconset and Android mipmap resources (including adaptive icon layers) from one image in the browser.
+- [locale-doctor](https://github.com/aozkurt/locale-doctor) - Checks the JSON translation catalogs and Android strings.xml of a Capacitor app together, with no config.
 
 ## Apps Built with Capacitor
 
