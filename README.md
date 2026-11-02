@@ -115,6 +115,7 @@ Places to discuss about Capacitor.
 - [How to Sign In with Azure Entra ID Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-azure-entra-id-using-capacitor/)
 - [How to Use Better Auth in Ionic and Capacitor Apps](https://capawesome.io/blog/how-to-use-better-auth-in-capacitor-apps/)
 - [How to Detect the Network Status in a Capacitor App](https://capawesome.io/blog/how-to-detect-the-network-status-in-a-capacitor-app/)
+- [Ionic Testing: Unit, End-to-End and Real Device Tests](https://www.testmuai.com/blog/ionic-testing/) - Unit, end-to-end and real device testing for Ionic and Capacitor apps.
 
 ## Convert a Web App to a Mobile App
 
