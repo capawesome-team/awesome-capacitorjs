@@ -84,7 +84,6 @@ Places to discuss about Capacitor.
 ## AI
 
 - [Agent Skills](https://capawesome.io/docs/ai/skills/) - Pre-written instructions that let AI coding agents perform Capacitor tasks such as migrations, plugin setup, and cloud integration correctly.
-- [HotCodePush MCP Server](https://hotcodepush.com/docs/ai/mcp) - Remote MCP server that lets AI agents release, pause and roll back over-the-air updates of Capacitor apps.
 
 ## Guides
 
@@ -448,6 +447,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 - [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
 - [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) - Capacitor plugin for interacting with calendar and reminders.
 - [@erkamyaman/capacitor-foldable](https://github.com/erkamyaman/capacitor-foldable) - Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.
+- [@hotcodepush/capacitor-live-updates](https://github.com/hotcodepush-team/capacitor-live-updates) - Capacitor plugin that delivers over-the-air updates from HotCodePush and rolls back a failed update automatically.
 - [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [@smartcompanion/native-audio-player](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) - Video recorder plugin for Capacitor.
