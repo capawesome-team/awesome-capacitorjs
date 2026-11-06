@@ -84,6 +84,7 @@ Places to discuss about Capacitor.
 ## AI
 
 - [Agent Skills](https://capawesome.io/docs/ai/skills/) - Pre-written instructions that let AI coding agents perform Capacitor tasks such as migrations, plugin setup, and cloud integration correctly.
+- [HotCodePush MCP Server](https://hotcodepush.com/docs/ai/mcp) - Remote MCP server that lets AI agents release, pause and roll back over-the-air updates of Capacitor apps.
 
 ## Guides
 
