@@ -453,6 +453,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 - [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
+- [capacitor-gleap-plugin](https://github.com/GleapSDK/Capacitor-SDK) - In-app bug reporting, customer feedback, live chat and AI customer support with Gleap.
 - [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 - [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) - Capacitor Video Player Plugin.
 - [send-intent](https://github.com/mindlib-capacitor/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
