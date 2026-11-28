@@ -452,7 +452,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 - [@smartcompanion/native-audio-player](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 - [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) - Video recorder plugin for Capacitor.
 - [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
-- [capacitor-auth-manager](https://github.com/aoneahsan/capacitor-auth-manager) - Capacitor plugin that signs users in with Google, Apple, Microsoft, Facebook, GitHub and other providers through one API, with token storage and refresh.
+- [capacitor-auth-manager](https://github.com/aoneahsan/capacitor-auth-manager) - Google sign-in for Capacitor with one call that behaves the same on web, iOS and Android, no Firebase dependency, and React, Vue and Angular adapters.
 - [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
 - [capacitor-gleap-plugin](https://github.com/GleapSDK/Capacitor-SDK) - In-app bug reporting, customer feedback, live chat and AI customer support with Gleap.
 - [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
