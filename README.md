@@ -456,6 +456,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 - [capacitor-gleap-plugin](https://github.com/GleapSDK/Capacitor-SDK) - In-app bug reporting, customer feedback, live chat and AI customer support with Gleap.
 - [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 - [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) - Capacitor Video Player Plugin.
+- [native-update](https://www.npmjs.com/package/native-update) - Capacitor plugin for signed over-the-air live updates, app store update prompts and in-app reviews; closed source with a free plan for 30 apps and 5,000 monthly active users.
 - [send-intent](https://github.com/mindlib-capacitor/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 
 ## Firebase
