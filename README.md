@@ -457,6 +457,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 - [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 - [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) - Capacitor Video Player Plugin.
 - [send-intent](https://github.com/mindlib-capacitor/send-intent) - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
+- [strata-storage](https://github.com/aoneahsan/strata-storage) - One storage API across web, iOS and Android (localStorage, IndexedDB, preferences, SQLite, secure storage) with TTL, encryption and zero runtime dependencies.
 
 ## Firebase
 
